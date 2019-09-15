@@ -1,2 +1,3 @@
-# omnifood
-Fictional Restaurant Website using HTML, CSS, JS, JQuery, Media Queries
+# omni-food-
+Fictional Restaurant Website
+tech used: HTML CSS JQuery, Media Query, JavaScript
